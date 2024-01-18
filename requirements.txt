@@ -1,0 +1,4 @@
+install flask
+install numpy
+install pandas
+install scikit-learn
